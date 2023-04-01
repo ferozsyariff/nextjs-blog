@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
           <title>{siteTitle}</title>
         </Head>
         <section className={utilStyles.headingMd}>
-          <p>I am a software developer with Credit Suisse and FDM. I work on primarily on the backend
+          <p>I am a software developer with Credit Suisse and FDM. I work on primarily on the backend, while keeping a firm eye on the latest frontend technologies
           </p>
           <p>
             (This is a sample website - you’ll be building a site like this on{' '}
